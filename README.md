@@ -22,3 +22,11 @@ git branch <name>
 and then move to branch
 
 git checkout <name>
+
+STEP 3 - Pull Requests
+
+git push <where> <what>
+
+e.g. git push origin main (onto main)
+
+git push origin <branch> (for a branch)
