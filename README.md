@@ -14,3 +14,11 @@ git clone <url>
 cd <repository name>
 
 END
+
+STEP 2 - Branch creation
+
+git branch <name>
+
+and then move to branch
+
+git checkout <name>
