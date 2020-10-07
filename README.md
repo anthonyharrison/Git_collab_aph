@@ -22,3 +22,9 @@ git branch <name>
 and then move to branch
 
 git checkout <name>
+
+STEP 2a - Another way
+
+git checkout -b <name>
+
+Does it all in one go
